@@ -1,0 +1,226 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.header {
+    width: 100%;
+    height: 100px;
+    /* margin-top: -10px;
+background-color: #689999;
+color: white;
+position: sticky; */
+
+}
+
+.bloc1 {
+    display: flex;
+    width: 100%;
+    height: 540px;
+    background-color: white;
+    gap: 0px;
+}
+
+.imghead {
+    margin-top: -450px;
+    width: 100%;
+    height: 540px;
+}
+
+.desvies {
+    margin-top: -400px;
+    font-size: 3em;
+    color: white;
+}
+
+/* .card1{
+border: none;
+color: rgb(77, 24, 24);
+} */
+/* .bloc2{
+background-color: #666666;
+} */
+/* .engagement{
+font-size: 1.5em;
+font-weight: bold;
+margin-top: -10px;
+
+} */
+/* .trait1{
+width: 130px;
+height: 5px;
+background-color: white;
+margin-left: 500px;
+opacity: 100%;
+} */
+.card2 {
+    border: none;
+}
+
+/* .cardmere{
+height: 325px;
+background-color: #254454;
+} */
+.cardmere1 {
+    height: 325px;
+}
+
+.cardt1 {
+    width: 65%;
+    height: 170px;
+    margin: 80px 0px 0px 80px;
+    background-color: white;
+}
+
+.logofoot {
+    margin: -40px 250px 0px 0px;
+}
+
+.footbas {
+    display: flex;
+    gap: 300px;
+    color: white;
+    margin-top: -50px;
+}
+
+.footcontenu {
+    display: flex;
+    margin-left: -1200px;
+    margin-top: 40px;
+    gap: 20px;
+    color: white;
+}
+
+.vie {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 190px;
+}
+
+.vil {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 590px;
+}
+
+.vue {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 990px;
+}
+
+.ligne {
+    display: flex;
+    height: 03px;
+    width: 1100px;
+    margin-top: 30px;
+    margin-left: -900px;
+    background-color: rgb(136, 130, 130);
+    border-radius: 10px;
+}
+
+.MESS {
+    display: flex;
+    margin-left: -900px;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+.cool {
+    display: flex;
+    margin-top: 190px;
+    margin-left: -550px;
+}
+
+.pool {
+    display: flex;
+    margin-top: 190px;
+    margin-left: 550px;
+}
+
+.imgh {
+    display: flex;
+    margin-top: 330px;
+    margin-left: -850px;
+    height: 450px;
+    width: 980px;
+    background-image: url(../G.png);
+    background-color: black;
+    background-size: cover;
+    align-self: center;
+}
+
+.formf {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+}
+
+.trie {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    gap: 90px;
+}
+
+.trie input {
+    width: 40%;
+    font-weight: bold;
+    border: solid 1px white;
+    background: rgba(0, 0, 0, 0);
+    height: 60px;
+}
+
+
+.formf>input {
+    width: 90%;
+    font-weight: bold;
+    border: solid 1px white;
+    background: rgba(0, 0, 0, 0);
+    height: 100px;
+
+}
+
+
+.FF {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 500px
+}
+
+.CARTE {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 400px;
+    width: 1000px;
+}
+.twi{
+display: flex;
+margin-left: 450px;
+margin-top:-55PX;
+height: 50PX;
+
+
+}
+
+.FI{
+    display: flex;
+    margin-left: 650px;
+    margin-top:260PX;
+    height: 50PX;
+
+}
+
+   
+

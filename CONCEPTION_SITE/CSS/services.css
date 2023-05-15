@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-left: 50px;
+}
+.manav{
+    margin-left: 150px;
+    }
+
+.imghead {
+    /* margin-top: -10px; */
+    width: 100%;
+    height: 600px;
+}
+
+.spec_serv {
+    margin-top: -400px;
+    font-size: 3em;
+}
+
+
+.tt{
+    background-image: url(../images/IMG_3804.jpg);
+   padding-bottom: 25px;
+
+
+}
+.texsect2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -530px;
+    font-size: 2em;
+}
+
+.cardsect2 {
+    gap: 10px;
+}
+
+.intsect3 {
+    margin-top: 15px;
+    width: 100%;
+    height: 40px;
+    background-color: #999999;
+    color: white;
+}
+.footer{
+   height: fit-content;
+}
+.texsect3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.bloc3 {
+    width: 100%;
+    height: fit-content;
+    background-color: white;
+}
+
+.footer{
+margin-top: -75px;
+}
+.cardb3 {
+    gap: 25px;
+    border: none;
+}
+.logofoot{
+    width: 100px;
+    margin: -20px 200px 0px 0px;
+}
+.footbas{
+display: flex;
+gap: 200px;
+color: white;
+margin-top: -70px;
+}
+.footcontenu{
+display: flex;
+margin-left: -1200px;
+gap: 30px;
+color: white;
+}

@@ -1,0 +1,243 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .mavav{
+margin-left: -180px;
+font-weight: bold;
+} */
+.header {
+    width: 100%;
+    height: 130px;
+    margin-top: -10px;
+    background-color: #689999;
+    color: white;
+
+
+}
+
+.bleue {
+    display: flex;
+    margin-top: 180px;
+    height: 100px;
+    color: black;
+    margin-left: 250px;
+
+}
+
+.doux {
+    display: flex;
+    margin-left: 350px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.r {
+    display: flex;
+    margin-left: 500px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.daa {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 200px;
+
+}
+
+.dee {
+    display: flex;
+    margin-left: 670px;
+    margin-top: -260px;
+}
+
+.dii {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 150px;
+
+}
+
+.duu {
+    display: flex;
+    margin-left: 670px;
+    margin-top: -300px;
+}
+
+.gra {
+    position: relative;
+    height: 07px;
+    width: 26px;
+    margin-left: 0px;
+}
+
+.cardmere1 {
+    height: 325px;
+}
+
+.cardt1 {
+    width: 65%;
+    height: 170px;
+    margin: 80px 0px 0px 80px;
+    background-color: white;
+}
+
+.logofoot {
+    margin: -40px 250px 0px 0px;
+}
+
+.footbas {
+    display: flex;
+    gap: 300px;
+    color: white;
+    margin-top: -50px;
+}
+
+.footcontenu {
+    display: flex;
+    margin-left: -1200px;
+    gap: 20px;
+    color: white;
+}
+
+.rod {
+    display: flex;
+    margin-left: 523px;
+    margin-top: -160px;
+
+}
+
+.rare {
+    display: flex;
+    margin-left: 690px;
+    margin-top: -170px;
+    color: rgb(11, 119, 161);
+    font-weight: bold;
+
+}
+
+.rere {
+    display: flex;
+    margin-left: 620px;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+.trac {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-weight: bold;
+    color: rgb(11, 119, 161);
+}
+
+.tace {
+    display: flex;
+    margin-left: 280px;
+    margin-top: 50px;
+    font-weight: bold;
+    color: rgb(173, 165, 165);
+}
+
+.VA {
+    display: flex;
+    margin-left: 670px;
+    margin-top: -170px;
+}
+
+.footcontenu {
+    display: flex;
+    margin-left: -1200px;
+    margin-top: 50px;
+    gap: 20px;
+    color: white;
+}
+
+.nav-item {
+    display: flex;
+    margin-left: 200px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dive {
+    display: flex;
+    margin-left: 20px;
+    z-index: 1;
+}
+
+.bien {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: -550px;
+    gap: 10px;
+}
+
+.ret {
+    padding: 0 30px;
+    margin-left: 360px;
+}
+
+.rat {
+    padding: 0 30px;
+    margin-left: 360px;
+}
+
+.rit {
+    padding: 05px 05px;
+    margin-left: 340px;
+}
+
+.ryt {
+    display: flex;
+    margin-left: 300px;
+}
+.rut {
+    display: flex;
+    margin-left: 300px;
+}
+.DE{
+    display: flex;
+    margin-left: 280px;
+    margin-top: -190px;
+}
+.DU{
+    display: flex;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+.DIT{
+    display: flex;
+    margin-left: 280px;
+    margin-top: 18px;
+}
+.DUT{
+    display: flex;
+    margin-left: 280px;
+    margin-top: 18px;
+}
+
+.conteneur{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-color: black;
+    height: 100px;
+    width: 1000px;
+}

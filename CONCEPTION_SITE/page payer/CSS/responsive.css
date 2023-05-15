@@ -1,0 +1,20 @@
+@media screen and (max-width : 500px){
+.logo_clinique{
+margin: -20px 0px 0px 100px;
+}
+
+
+}
+@media screen and (max-width : 1200px){
+    .logo_clinique{
+    margin: -50px 0px 0px 0px;
+    }
+    }
+    @media (min-width: 320px) AND (max-width: 800px)
+{
+/* Les codes CSS */
+}
+@media (min-width: 800px) AND (max-width: 960px)
+{
+/* Les codes CSS*/
+}

@@ -1,0 +1,54 @@
+@media screen and (max-width : 500px){
+.logo_clinique{
+margin: -20px 0px 0px 100px;
+}
+}
+@media (min-width: 320px) AND (max-width: 800px)
+{
+/* Les codes CSS */
+}
+@media (min-width: 800px) AND (max-width: 960px)
+{
+/* Les codes CSS*/
+}
+.footbas{
+    display: flex;
+    gap: 10px;
+    color: white;
+    margin-top: -100px;
+    }
+    .fth{
+    display: none;
+    }
+    
+    .fontfoot{
+        width: 100%;
+        height: 200px;
+        }
+    .logofoot{
+        position: relative;
+        left: 20%;
+      }
+
+
+@media screen and (max-width : 1200px){
+    .logo_clinique{
+    margin: -50px 0px 0px 0px;
+    }
+    .footbas{
+        display: flex;
+        gap: 50px;
+        color: white;
+        margin-top: -80px;
+        }
+    .fth{
+       display: none;
+    }
+    .logofoot{
+    margin-left: 650px;
+    }
+    .fontfoot{
+        width: 100%;
+        height: 250px;
+        }
+}

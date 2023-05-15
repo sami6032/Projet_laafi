@@ -1,0 +1,141 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+/* .mavav{
+margin-left: -180px;
+font-weight: bold;
+} */
+.header{
+width: 100%;
+height: 150px;
+margin-top: -10px;
+background-color: #689999;
+color: white;
+position: sticky;
+
+}
+.bleue{
+margin-top: -10px;
+width: 100%;
+height: 340px;
+color: black;
+background-color: #beb6be;
+}
+.doux{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.r{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.daa{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 200px;
+   
+}
+.dee{
+    display: flex;
+    margin-left: 670px;
+    margin-top: -260px;
+ }  
+ .dii{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 150px;
+   
+}
+
+.duu{
+    display: flex;
+    margin-left: 670px;
+    margin-top: -300px;
+ } 
+ .gra{
+    position: relative;
+    height:07px;
+    width:26px;
+    margin-left: 0px;
+ }  
+
+ .cardmere1{
+    height: 325px;
+    }
+.cardt1{
+    width: 65%;
+    height: 170px;
+    margin: 80px 0px 0px 80px;
+    background-color: white;
+    }
+.logofoot{
+margin: -40px 250px 0px 0px;
+}
+.footbas{
+display: flex;
+gap: 300px;
+color: white;
+margin-top: -50px;
+}
+.footcontenu{
+display: flex;
+margin-left: -1200px;
+gap: 20px;
+color: white;
+}
+.rod{
+    display: flex;
+    margin-left: 523px;
+    
+}
+
+.rare{
+    display: flex;
+    margin-left: 690px;
+    margin-top: -170px;
+    color: rgb(11, 119, 161);
+    font-weight: bold;
+   
+}
+.rere{
+    display: flex;
+    margin-left: 620px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+}
+
+.trac{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-weight: bold;
+   color: rgb(11, 119, 161);
+}
+ 
+.tace{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+ 
+.VA{
+    display: flex;
+    margin-left: 670px;
+    margin-top: -170px;
+}
+.footcontenu{
+    display: flex;
+    margin-left: -1200px;
+    margin-top: 50px;
+    gap: 20px;
+    color: white;
+    }
